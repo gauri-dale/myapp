@@ -1,6 +1,20 @@
-# neutralinojs-minimal
+# NeutralinoJS Starter App – System Info Explorer
 
-The default template for a Neutralinojs app. It's possible to use your favorite frontend framework by using [these steps](https://neutralino.js.org/docs/getting-started/using-frontend-libraries).
+This is a small interactive desktop application built using **NeutralinoJS** to explore its architecture, configuration, and native API capabilities.
+
+The project started as a documentation-following exercise and was gradually extended to better understand how **frontend JavaScript communicates with native system APIs** in Neutralino.
+
+---
+
+## 🚀 Features
+
+- 🧑 User input field to enter a name and update the greeting dynamically
+- 🖥️ Fetches and displays system/OS information using the `os` native API
+- 🔘 Button-based interactions to trigger native API calls
+- 🎨 Simple UI built with HTML and CSS
+- ⚙️ Demonstrates native API permissions via `nativeAllowList`
+
+---
 
 ## Contributors
 

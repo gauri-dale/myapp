@@ -7,9 +7,23 @@
   </head>
   <body>
     <div id="neutralinoapp">
-      <h1 id="name"></h1>
-    </div>
-    <script src="js/neutralino.js"></script>
-    <script src="js/main.js"></script>
+    <h1 id="greeting">Hello!</h1>
+
+    <input
+      type="text"
+      id="nameInput"
+      placeholder="Enter your name"
+    />
+
+    <br /><br />
+
+    <button onclick="updateGreeting()">Update Greeting</button>
+    <button onclick="getOSInfo()">Get OS Info</button>
+
+    <p id="osInfo"></p>
+  </div>
+
+  <script src="js/neutralino.js"></script>
+  <script src="js/main.js"></script>
   </body>
 </html>
