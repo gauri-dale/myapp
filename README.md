@@ -16,6 +16,11 @@ The project started as a documentation-following exercise and was gradually exte
 
 ---
 
+## Preview
+
+<img width="876" height="543" alt="image" src="https://github.com/user-attachments/assets/5483a497-1d28-4ff1-8996-2103d6f11abd" />
+
+
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=neutralinojs/neutralinojs-minimal)](https://github.com/neutralinojs/neutralinojs-minimal/graphs/contributors)
