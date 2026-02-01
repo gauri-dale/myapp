@@ -18,8 +18,9 @@ The project started as a documentation-following exercise and was gradually exte
 
 ## Preview
 
-<img width="876" height="543" alt="image" src="https://github.com/user-attachments/assets/5483a497-1d28-4ff1-8996-2103d6f11abd" />
+<img width="776" height="483" alt="image" src="https://github.com/user-attachments/assets/6a58496d-7aa1-485c-8f70-be64da1cb0ed" />
 
+---
 
 ## Contributors
 
